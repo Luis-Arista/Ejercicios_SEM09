@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "instalacion de dependencias",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Arista",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
